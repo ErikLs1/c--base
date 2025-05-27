@@ -1,0 +1,11 @@
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/bin/Debug/net9.0/Base.Contracts.deps.json
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/bin/Debug/net9.0/Base.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/bin/Debug/net9.0/Base.Contracts.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/obj/Debug/net9.0/Base.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/obj/Debug/net9.0/Base.Contracts.AssemblyInfoInputs.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/obj/Debug/net9.0/Base.Contracts.AssemblyInfo.cs
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/obj/Debug/net9.0/Base.Contracts.csproj.CoreCompileInputs.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/obj/Debug/net9.0/Base.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/obj/Debug/net9.0/refint/Base.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/obj/Debug/net9.0/Base.Contracts.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/obj/Debug/net9.0/ref/Base.Contracts.dll

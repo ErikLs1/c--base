@@ -1,0 +1,15 @@
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/bin/Debug/net9.0/Base.Helpers.deps.json
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/bin/Debug/net9.0/Base.Helpers.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/bin/Debug/net9.0/Base.Helpers.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/bin/Debug/net9.0/Base.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/bin/Debug/net9.0/Base.Contracts.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/obj/Debug/net9.0/Base.Helpers.csproj.AssemblyReference.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/obj/Debug/net9.0/Base.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/obj/Debug/net9.0/Base.Helpers.AssemblyInfoInputs.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/obj/Debug/net9.0/Base.Helpers.AssemblyInfo.cs
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/obj/Debug/net9.0/Base.Helpers.csproj.CoreCompileInputs.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/obj/Debug/net9.0/Base.Hel.9D91605F.Up2Date
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/obj/Debug/net9.0/Base.Helpers.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/obj/Debug/net9.0/refint/Base.Helpers.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/obj/Debug/net9.0/Base.Helpers.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/obj/Debug/net9.0/ref/Base.Helpers.dll

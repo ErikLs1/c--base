@@ -1,0 +1,15 @@
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/bin/Debug/net9.0/Base.Domain.deps.json
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/bin/Debug/net9.0/Base.Domain.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/bin/Debug/net9.0/Base.Domain.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/bin/Debug/net9.0/Base.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/bin/Debug/net9.0/Base.Contracts.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/obj/Debug/net9.0/Base.Domain.csproj.AssemblyReference.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/obj/Debug/net9.0/Base.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/obj/Debug/net9.0/Base.Domain.AssemblyInfoInputs.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/obj/Debug/net9.0/Base.Domain.AssemblyInfo.cs
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/obj/Debug/net9.0/Base.Domain.csproj.CoreCompileInputs.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/obj/Debug/net9.0/Base.Dom.FA02210C.Up2Date
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/obj/Debug/net9.0/Base.Domain.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/obj/Debug/net9.0/refint/Base.Domain.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/obj/Debug/net9.0/Base.Domain.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/obj/Debug/net9.0/ref/Base.Domain.dll

@@ -1,0 +1,17 @@
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/bin/Debug/net9.0/Base.BLL.Contracts.deps.json
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/bin/Debug/net9.0/Base.BLL.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/bin/Debug/net9.0/Base.BLL.Contracts.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/bin/Debug/net9.0/Base.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/bin/Debug/net9.0/Base.DAL.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/bin/Debug/net9.0/Base.Contracts.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/bin/Debug/net9.0/Base.DAL.Contracts.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/obj/Debug/net9.0/Base.BLL.Contracts.csproj.AssemblyReference.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/obj/Debug/net9.0/Base.BLL.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/obj/Debug/net9.0/Base.BLL.Contracts.AssemblyInfoInputs.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/obj/Debug/net9.0/Base.BLL.Contracts.AssemblyInfo.cs
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/obj/Debug/net9.0/Base.BLL.Contracts.csproj.CoreCompileInputs.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/obj/Debug/net9.0/Base.BLL.2C9E4ABD.Up2Date
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/obj/Debug/net9.0/Base.BLL.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/obj/Debug/net9.0/refint/Base.BLL.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/obj/Debug/net9.0/Base.BLL.Contracts.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/obj/Debug/net9.0/ref/Base.BLL.Contracts.dll

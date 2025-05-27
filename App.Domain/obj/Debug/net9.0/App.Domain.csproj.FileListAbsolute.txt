@@ -1,0 +1,17 @@
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/bin/Debug/net9.0/App.Domain.deps.json
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/bin/Debug/net9.0/App.Domain.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/bin/Debug/net9.0/App.Domain.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/bin/Debug/net9.0/Base.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/bin/Debug/net9.0/Base.Domain.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/bin/Debug/net9.0/Base.Domain.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/bin/Debug/net9.0/Base.Contracts.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/obj/Debug/net9.0/App.Domain.csproj.AssemblyReference.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/obj/Debug/net9.0/App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/obj/Debug/net9.0/App.Domain.AssemblyInfoInputs.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/obj/Debug/net9.0/App.Domain.AssemblyInfo.cs
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/obj/Debug/net9.0/App.Domain.csproj.CoreCompileInputs.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/obj/Debug/net9.0/App.Domain.csproj.Up2Date
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/obj/Debug/net9.0/App.Domain.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/obj/Debug/net9.0/refint/App.Domain.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/obj/Debug/net9.0/App.Domain.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/obj/Debug/net9.0/ref/App.Domain.dll

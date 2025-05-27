@@ -1,0 +1,15 @@
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/bin/Debug/net9.0/App.DAL.DTO.deps.json
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/bin/Debug/net9.0/App.DAL.DTO.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/bin/Debug/net9.0/App.DAL.DTO.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/bin/Debug/net9.0/Base.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/bin/Debug/net9.0/Base.Contracts.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/obj/Debug/net9.0/App.DAL.DTO.csproj.AssemblyReference.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/obj/Debug/net9.0/App.DAL.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/obj/Debug/net9.0/App.DAL.DTO.AssemblyInfoInputs.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/obj/Debug/net9.0/App.DAL.DTO.AssemblyInfo.cs
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/obj/Debug/net9.0/App.DAL.DTO.csproj.CoreCompileInputs.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/obj/Debug/net9.0/App.DAL..41CCC148.Up2Date
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/obj/Debug/net9.0/App.DAL.DTO.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/obj/Debug/net9.0/refint/App.DAL.DTO.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/obj/Debug/net9.0/App.DAL.DTO.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/obj/Debug/net9.0/ref/App.DAL.DTO.dll

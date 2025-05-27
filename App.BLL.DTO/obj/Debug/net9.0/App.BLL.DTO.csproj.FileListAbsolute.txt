@@ -1,0 +1,15 @@
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/bin/Debug/net9.0/App.BLL.DTO.deps.json
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/bin/Debug/net9.0/App.BLL.DTO.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/bin/Debug/net9.0/App.BLL.DTO.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/bin/Debug/net9.0/Base.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/bin/Debug/net9.0/Base.Contracts.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/obj/Debug/net9.0/App.BLL.DTO.csproj.AssemblyReference.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/obj/Debug/net9.0/App.BLL.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/obj/Debug/net9.0/App.BLL.DTO.AssemblyInfoInputs.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/obj/Debug/net9.0/App.BLL.DTO.AssemblyInfo.cs
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/obj/Debug/net9.0/App.BLL.DTO.csproj.CoreCompileInputs.cache
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/obj/Debug/net9.0/App.BLL..57CB2D04.Up2Date
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/obj/Debug/net9.0/App.BLL.DTO.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/obj/Debug/net9.0/refint/App.BLL.DTO.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/obj/Debug/net9.0/App.BLL.DTO.pdb
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/obj/Debug/net9.0/ref/App.BLL.DTO.dll

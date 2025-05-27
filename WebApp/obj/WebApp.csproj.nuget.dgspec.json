@@ -1,0 +1,1158 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/WebApp/WebApp.csproj": {}
+  },
+  "projects": {
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.Contracts/App.BLL.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.Contracts/App.BLL.Contracts.csproj",
+        "projectName": "App.BLL.Contracts",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.Contracts/App.BLL.Contracts.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/App.BLL.DTO.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/App.BLL.DTO.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.Contracts/App.DAL.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.Contracts/App.DAL.Contracts.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/Base.BLL.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/Base.BLL.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/App.BLL.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/App.BLL.DTO.csproj",
+        "projectName": "App.BLL.DTO",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/App.BLL.DTO.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/Base.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/Base.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL/App.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL/App.BLL.csproj",
+        "projectName": "App.BLL",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL/App.BLL.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.Contracts/App.BLL.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.Contracts/App.BLL.Contracts.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/App.BLL.DTO.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/App.BLL.DTO.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.Contracts/App.DAL.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.Contracts/App.DAL.Contracts.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/App.DAL.DTO.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/App.DAL.DTO.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/App.Domain.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/App.Domain.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL/Base.BLL.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL/Base.BLL.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/Base.Helpers.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/Base.Helpers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.Contracts/App.DAL.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.Contracts/App.DAL.Contracts.csproj",
+        "projectName": "App.DAL.Contracts",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.Contracts/App.DAL.Contracts.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/App.DAL.DTO.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/App.DAL.DTO.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.Contracts/Base.DAL.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.Contracts/Base.DAL.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/App.DAL.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/App.DAL.DTO.csproj",
+        "projectName": "App.DAL.DTO",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/App.DAL.DTO.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/Base.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/Base.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.EF/App.DAL.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.EF/App.DAL.EF.csproj",
+        "projectName": "App.DAL.EF",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.EF/App.DAL.EF.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.EF/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.Contracts/App.DAL.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.Contracts/App.DAL.Contracts.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/App.DAL.DTO.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/App.DAL.DTO.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/App.Domain.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/App.Domain.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.EF/Base.DAL.EF.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.EF/Base.DAL.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/App.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/App.Domain.csproj",
+        "projectName": "App.Domain",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/App.Domain.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/Base.Domain.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/Base.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DTO/App.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DTO/App.DTO.csproj",
+        "projectName": "App.DTO",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DTO/App.DTO.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DTO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/App.BLL.DTO.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.DTO/App.BLL.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/Base.BLL.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/Base.BLL.Contracts.csproj",
+        "projectName": "Base.BLL.Contracts",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/Base.BLL.Contracts.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/Base.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/Base.Contracts.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.Contracts/Base.DAL.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.Contracts/Base.DAL.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL/Base.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL/Base.BLL.csproj",
+        "projectName": "Base.BLL",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL/Base.BLL.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/Base.BLL.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/Base.BLL.Contracts.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.Contracts/Base.DAL.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.Contracts/Base.DAL.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/Base.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/Base.Contracts.csproj",
+        "projectName": "Base.Contracts",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/Base.Contracts.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.Contracts/Base.DAL.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.Contracts/Base.DAL.Contracts.csproj",
+        "projectName": "Base.DAL.Contracts",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.Contracts/Base.DAL.Contracts.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/Base.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/Base.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.EF/Base.DAL.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.EF/Base.DAL.EF.csproj",
+        "projectName": "Base.DAL.EF",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.EF/Base.DAL.EF.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.EF/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.Contracts/Base.DAL.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.Contracts/Base.DAL.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/Base.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/Base.Domain.csproj",
+        "projectName": "Base.Domain",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/Base.Domain.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/Base.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/Base.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/Base.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/Base.Helpers.csproj",
+        "projectName": "Base.Helpers",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/Base.Helpers.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/Base.Contracts.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/Base.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eriklihhats/Desktop/Dev/ExamSample/WebApp/WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eriklihhats/Desktop/Dev/ExamSample/WebApp/WebApp.csproj",
+        "projectName": "WebApp",
+        "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/WebApp/WebApp.csproj",
+        "packagesPath": "/Users/eriklihhats/.nuget/packages/",
+        "outputPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/WebApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eriklihhats/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL/App.BLL.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL/App.BLL.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.EF/App.DAL.EF.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.EF/App.DAL.EF.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DTO/App.DTO.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/App.DTO/App.DTO.csproj"
+              },
+              "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/Base.Helpers.csproj": {
+                "projectPath": "/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/Base.Helpers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Asp.Versioning.Mvc": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Asp.Versioning.Mvc.ApiExplorer": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
