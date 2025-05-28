@@ -17,3 +17,4 @@
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL/obj/Debug/net9.0/refint/Base.BLL.dll
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL/obj/Debug/net9.0/Base.BLL.pdb
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL/obj/Debug/net9.0/ref/Base.BLL.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL/obj/Debug/net9.0/Base.BLL.sourcelink.json

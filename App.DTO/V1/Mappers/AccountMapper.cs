@@ -1,7 +1,7 @@
 using App.BLL.DTO.Identity;
 using App.DTO.Identity;
 
-namespace App.DTO.V1.DTO;
+namespace App.DTO.V1.Mappers;
 
 public class AccountMapper
 {

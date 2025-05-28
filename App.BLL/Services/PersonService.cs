@@ -21,6 +21,21 @@ public class PersonService : BaseService<PersonBllDto, PersonDalDto, IPersonRepo
         return count;
     }
 
+    public async Task<ProfileInfoBllDto> GetProfileAsync(Guid userId)
+    {
+        var dal = await ServiceRepository.FindByUserIdAsync(userId);
+        var res = new ProfileInfoBllDto()
+        {
+            PersonFirstName = dal.PersonFirstName,
+            PersonLastName = dal.PersonLastName,
+            PersonPhoneNumber = dal.PersonPhoneNumber,
+            PersonAddress = dal.PersonAddress,
+            PersonGender = dal.PersonGender,
+            PersonBirthDate = dal.PersonDateOfBirth
+        };
+        return res;
+    }
+
     public async Task<Guid> GetPersonIdByUserIdAsync(Guid userId)
     {
         return await ServiceRepository.FindPersonIdByUserIdAsync(userId);

@@ -17,3 +17,4 @@
 /Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.Contracts/obj/Debug/net9.0/refint/App.DAL.Contracts.dll
 /Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.Contracts/obj/Debug/net9.0/App.DAL.Contracts.pdb
 /Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.Contracts/obj/Debug/net9.0/ref/App.DAL.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.Contracts/obj/Debug/net9.0/App.DAL.Contracts.sourcelink.json

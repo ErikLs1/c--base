@@ -25,3 +25,4 @@
 /Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.EF/obj/Debug/net9.0/refint/App.DAL.EF.dll
 /Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.EF/obj/Debug/net9.0/App.DAL.EF.pdb
 /Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.EF/obj/Debug/net9.0/ref/App.DAL.EF.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.EF/obj/Debug/net9.0/App.DAL.EF.sourcelink.json

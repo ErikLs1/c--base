@@ -15,3 +15,4 @@
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.EF/obj/Debug/net9.0/refint/Base.DAL.EF.dll
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.EF/obj/Debug/net9.0/Base.DAL.EF.pdb
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.EF/obj/Debug/net9.0/ref/Base.DAL.EF.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.DAL.EF/obj/Debug/net9.0/Base.DAL.EF.sourcelink.json

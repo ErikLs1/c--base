@@ -9,3 +9,4 @@
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/obj/Debug/net9.0/refint/Base.Contracts.dll
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/obj/Debug/net9.0/Base.Contracts.pdb
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/obj/Debug/net9.0/ref/Base.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Contracts/obj/Debug/net9.0/Base.Contracts.sourcelink.json

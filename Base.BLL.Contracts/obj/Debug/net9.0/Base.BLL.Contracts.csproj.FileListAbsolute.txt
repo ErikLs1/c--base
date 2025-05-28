@@ -15,3 +15,4 @@
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/obj/Debug/net9.0/refint/Base.BLL.Contracts.dll
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/obj/Debug/net9.0/Base.BLL.Contracts.pdb
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/obj/Debug/net9.0/ref/Base.BLL.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.BLL.Contracts/obj/Debug/net9.0/Base.BLL.Contracts.sourcelink.json

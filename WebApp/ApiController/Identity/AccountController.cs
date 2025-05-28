@@ -1,6 +1,7 @@
 using App.BLL.Services;
 using App.DTO.Identity;
 using App.DTO.V1.DTO;
+using App.DTO.V1.Mappers;
 using Asp.Versioning;
 using Base.Helpers;
 using Microsoft.AspNetCore.Authentication.JwtBearer;

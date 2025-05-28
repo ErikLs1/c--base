@@ -10,6 +10,7 @@ using App.DAL.EF;
 using App.DAL.EF.DataSeeding;
 using App.Domain.Identity;
 using App.DTO.V1.DTO;
+using App.DTO.V1.Mappers;
 using Asp.Versioning;
 using Asp.Versioning.ApiExplorer;
 using Base.Contracts;

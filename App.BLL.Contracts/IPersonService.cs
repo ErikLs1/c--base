@@ -6,5 +6,7 @@ namespace App.BLL.Contracts;
 
 public interface IPersonService : IBaseService<PersonBllDto>, IPersonRepositoryCustom
 {
+    Task<ProfileInfoBllDto> GetProfileAsync(Guid userId);
+    
     Task<Guid> GetPersonIdByUserIdAsync(Guid userId);
 }

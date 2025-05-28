@@ -23,3 +23,4 @@
 /Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.Contracts/obj/Debug/net9.0/refint/App.BLL.Contracts.dll
 /Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.Contracts/obj/Debug/net9.0/App.BLL.Contracts.pdb
 /Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.Contracts/obj/Debug/net9.0/ref/App.BLL.Contracts.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.BLL.Contracts/obj/Debug/net9.0/App.BLL.Contracts.sourcelink.json

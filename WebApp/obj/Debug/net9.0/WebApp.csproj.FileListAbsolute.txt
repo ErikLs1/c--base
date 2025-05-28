@@ -462,3 +462,4 @@
 /Users/eriklihhats/Desktop/Dev/ExamSample/WebApp/obj/Debug/net9.0/WebApp.pdb
 /Users/eriklihhats/Desktop/Dev/ExamSample/WebApp/obj/Debug/net9.0/WebApp.genruntimeconfig.cache
 /Users/eriklihhats/Desktop/Dev/ExamSample/WebApp/obj/Debug/net9.0/ref/WebApp.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/WebApp/obj/Debug/net9.0/WebApp.sourcelink.json

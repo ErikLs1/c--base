@@ -7,7 +7,7 @@
         <member name="T:WebApp.ApiController.Identity.AccountController">
             <inheritdoc />
         </member>
-        <member name="M:WebApp.ApiController.Identity.AccountController.#ctor(App.BLL.Services.AccountService,App.DTO.V1.DTO.AccountMapper)">
+        <member name="M:WebApp.ApiController.Identity.AccountController.#ctor(App.BLL.Services.AccountService,App.DTO.V1.Mappers.AccountMapper)">
             <inheritdoc />
         </member>
         <member name="M:WebApp.ApiController.Identity.AccountController.Login(App.DTO.Identity.LoginDto,System.Nullable{System.Int32},System.Nullable{System.Int32})">
@@ -56,6 +56,18 @@
             200 OK if logout was successful;
             404 Not Found if given token was not found.
             </returns>
+        </member>
+        <member name="T:WebApp.ApiController.PersonsController">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApp.ApiController.PersonsController.#ctor(App.BLL.Contracts.IAppBll)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApp.ApiController.PersonsController.GetProfileInfo">
+            <summary>
+            
+            </summary>
+            <returns></returns>
         </member>
         <member name="T:WebApp.Areas.Identity.Pages.Account.AccessDeniedModel">
             <summary>
