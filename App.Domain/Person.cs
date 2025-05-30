@@ -6,6 +6,9 @@ namespace App.Domain;
 
 public class Person : BaseEntityUser<AppUser>
 {
+    public Guid? SchoolId { get; set; }
+    public School? School { get; set; }
+    
     [Required]
     [MaxLength(50)]
     public string PersonFirstName { get; set; } = default!;
@@ -24,4 +27,8 @@ public class Person : BaseEntityUser<AppUser>
     public string PersonGender { get; set; } = default!;
     
     public DateOnly? PersonDateOfBirth { get; set; }
+    
+    public ICollection<SemesterSubject>? SemesterSubjects { get; set; }
+    public ICollection<Enrollment>? Enrollments { get; set; }
+    public ICollection<TaskGrade>? TaskGrades { get; set; }
 }

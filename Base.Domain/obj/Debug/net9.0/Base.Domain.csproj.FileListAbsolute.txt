@@ -13,3 +13,4 @@
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/obj/Debug/net9.0/refint/Base.Domain.dll
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/obj/Debug/net9.0/Base.Domain.pdb
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/obj/Debug/net9.0/ref/Base.Domain.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Domain/obj/Debug/net9.0/Base.Domain.sourcelink.json

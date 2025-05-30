@@ -13,3 +13,4 @@
 /Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/obj/Debug/net9.0/refint/App.DAL.DTO.dll
 /Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/obj/Debug/net9.0/App.DAL.DTO.pdb
 /Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/obj/Debug/net9.0/ref/App.DAL.DTO.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/App.DAL.DTO/obj/Debug/net9.0/App.DAL.DTO.sourcelink.json

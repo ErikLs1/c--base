@@ -1,3 +1,4 @@
+using App.Domain;
 using App.Domain.Identity;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -8,6 +9,61 @@ public class AppDataInit
 {
     public static void SeedAppData(AppDbContext context)
     {
+        foreach (var s in InitialData.Schools)
+        {
+            var already = context.Schools.Any(x => x.SchoolName == s.schoolName);
+            if (already) continue;
+
+            var school = new School
+            {
+                Id = s.id ?? Guid.NewGuid(),
+                SchoolName = s.schoolName,
+                SchoolAddress = s.schoolAddress,
+                CreatedAt = DateTime.UtcNow,
+                CreatedBy = "system"
+            };
+
+            var result = context.Schools.Add(school);
+            if (result.State != EntityState.Added) 
+                throw new ApplicationException("School creation failed!");
+        }
+        context.SaveChanges();
+
+        
+        var schoolMap = context.Schools
+                               .ToDictionary(k => k.SchoolName, v => v.Id);
+
+        foreach (var subj in InitialData.Subjects)
+        {
+            var entity = new Subject
+            {
+                Id                = subj.id ?? Guid.NewGuid(),
+                SubjectName       = subj.subjectName,
+                SubjectCode       = subj.subjectCode,
+                Eap               = subj.eap,
+                SchoolId          = schoolMap[subj.schoolName],
+                CreatedAt         = DateTime.UtcNow,
+                CreatedBy         = "system"
+            };
+
+            context.Subjects.Add(entity);
+        }
+        context.SaveChanges();
+        
+        foreach (var sem in InitialData.Semesters)
+        {
+            var entity = new Semester
+            {
+                Id = sem.id ?? Guid.NewGuid(),
+                SemesterName  = sem.semesterName,
+                SemesterYear  = new DateOnly(sem.semesterYear, 1, 1),
+                CreatedAt     = DateTime.UtcNow,
+                CreatedBy     = "system"
+            };
+
+            context.Semesters.Add(entity);
+        }
+        context.SaveChanges();
     }
 
     public static void MigrateDatabase(AppDbContext context)

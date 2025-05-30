@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
+using Task = App.Domain.Task;
 
 namespace App.DAL.EF;
 
@@ -13,6 +14,13 @@ public class AppDbContext : IdentityDbContext<AppUser, AppRole, Guid, IdentityUs
 {
     public DbSet<Person> Persons { get; set; } = default!;
     public DbSet<AppRefreshToken> RefreshTokens { get; set; } = default!;
+    public DbSet<School> Schools { get; set; } = default!;
+    public DbSet<Semester> Semesters { get; set; } = default!;
+    public DbSet<Subject> Subjects { get; set; } = default!;
+    public DbSet<SemesterSubject> SemesterSubjects   { get; set; } = default!;
+    public DbSet<Task> Tasks { get; set; } = default!;
+    public DbSet<TaskGrade> TaskGrades { get; set; } = default!;
+    public DbSet<Enrollment> Enrollments { get; set; } = default!;
     
     private readonly IUserNameResolver _userNameResolver;
     private readonly ILogger<AppDbContext> _logger;

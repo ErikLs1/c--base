@@ -13,3 +13,4 @@
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/obj/Debug/net9.0/refint/Base.Helpers.dll
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/obj/Debug/net9.0/Base.Helpers.pdb
 /Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/obj/Debug/net9.0/ref/Base.Helpers.dll
+/Users/eriklihhats/Desktop/Dev/ExamSample/Base.Helpers/obj/Debug/net9.0/Base.Helpers.sourcelink.json
