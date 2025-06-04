@@ -5,7 +5,7 @@ namespace App.Domain;
 
 public class SemesterSubject : BaseEntity
 {
-    public Guid TeacherId { get; set; }
+    public Guid? TeacherId { get; set; }
     public Person? Teacher { get; set; }
     
     public Guid SchoolId { get; set; }

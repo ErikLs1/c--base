@@ -12,7 +12,8 @@ public class TaskGrade : BaseEntity
     
     public Guid EnrollmentId { get; set; }
     public Enrollment? Enrollment { get; set; }
-    
+
     public decimal TaskGradeValue { get; set; }
+    public bool Submitted { get; set; }
     public DateTime GradedAt { get; set; }
 }

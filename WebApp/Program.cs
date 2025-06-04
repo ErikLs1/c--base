@@ -270,7 +270,7 @@ static void SetupAppData(IApplicationBuilder app, IWebHostEnvironment env, IConf
     if (configuration.GetValue<bool>("DataInitialization:SeedIdentity"))
     {
         logger.LogInformation("SeedIdentity");
-        AppDataInit.SeedIdentity(userManager, roleManager);
+        AppDataInit.SeedIdentity(context, userManager, roleManager);
     }
 
     if (configuration.GetValue<bool>("DataInitialization:SeedData"))

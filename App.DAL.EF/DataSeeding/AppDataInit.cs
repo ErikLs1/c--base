@@ -63,6 +63,44 @@ public class AppDataInit
 
             context.Semesters.Add(entity);
         }
+        
+        context.SaveChanges();
+        
+        var semesters = context.Semesters.ToList();
+        var subjects  = context.Subjects.ToList();
+
+        foreach (var sem in semesters)
+        {
+            foreach (var subj in subjects)
+            {
+                // avoid duplicates
+                var exists = context.SemesterSubjects.Any(ss =>
+                    ss.SemesterId == sem.Id &&
+                    ss.SubjectId == subj.Id);
+
+                if (exists) continue;
+
+                // Determine sensible start/end
+                var start = new DateOnly(sem.SemesterYear.Year,
+                    sem.SemesterName == "Spring" ? 1 : 7, 1);
+                var end = new DateOnly(sem.SemesterYear.Year,
+                    sem.SemesterName == "Spring" ? 6 : 12, 30);
+
+                context.SemesterSubjects.Add(new SemesterSubject
+                {
+                    Id = Guid.NewGuid(),
+                    SchoolId = subj.SchoolId,
+                    SemesterId = sem.Id,
+                    SubjectId = subj.Id,
+                    Room = null,
+                    StartDate = start,
+                    EndDate = end,
+                    CreatedAt = DateTime.UtcNow,
+                    CreatedBy = "system"
+                });
+            }
+        }
+
         context.SaveChanges();
     }
 
@@ -76,7 +114,7 @@ public class AppDataInit
         context.Database.EnsureDeleted();
     }
 
-    public static void SeedIdentity(UserManager<AppUser> userManager, RoleManager<AppRole> roleManager)
+    public static void SeedIdentity(AppDbContext context, UserManager<AppUser> userManager, RoleManager<AppRole> roleManager)
     {
         foreach (var (roleName, id) in InitialData.Roles)
         {
@@ -116,6 +154,32 @@ public class AppDataInit
                 {
                     throw new ApplicationException("User creation failed!");
                 }
+            }
+            var existingPerson = context.Persons
+                .AsNoTracking()
+                .FirstOrDefault(p => p.UserId == user.Id);
+            if (existingPerson == null)
+            {
+                var person = new Person
+                {
+                    Id = Guid.NewGuid(),
+                    UserId = user.Id,
+                    PersonFirstName = user.FirstName,
+                    PersonLastName = user.LastName, 
+                    PersonPhoneNumber = "some number",
+                    PersonAddress = "some addreess",
+                    PersonGender = "some gender",
+                    CreatedAt = DateTime.UtcNow,
+                    CreatedBy = "system"
+                };
+                context.Persons.Add(person);
+                context.SaveChanges();
+            }
+
+            foreach (var role in userInfo.roles)
+            {
+                if (userManager.IsInRoleAsync(user, role).Result) continue;
+                userManager.AddToRoleAsync(user, role).Wait();
             }
 
             foreach (var role in userInfo.roles)
